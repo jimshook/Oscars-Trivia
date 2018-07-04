@@ -1,0 +1,21 @@
+Management console
+  Module:  Main
+    Description:  The main menu, will have buttons and links to the other management modules
+    Screen Design:
+    
+  Module:  Questions
+    Description:  Add, edit, delete trivia questions
+    Screen Design:
+   
+  Module: Teams
+    Description:  Add, edit, delete teams and team names
+    Screen Design:
+    
+  Module:  Play Game
+    Description: A module to start and run an actual game 
+    Screen Design:
+    
+  Module: Scoreboard
+    Description: Displays the scoreboard for the game identified by the gameID
+    Screen Design: 
+   
